@@ -1,2 +1,2 @@
-# intro-to-algorithms
-Repository contains progress on Intro to Algorithms course of Udacity
+# data-structures-and-algorithms
+Repository contains progress on udemy.com/course/data-structures-and-algorithms-deep-dive-using-java
